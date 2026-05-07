@@ -15,7 +15,7 @@ This repository is organized into the following sections for institute evaluatio
 
 ### 1. Planning & Agile Documentation
 * **Architecture:** [Architecture Diagram](./architecture.gif)
-* **Agile Docs:** [Link to your Agile/Project Management file]
+* **Agile Docs:** (./Agile docx Grp-B(Team-A).xlsx)
 * **PPT:** [Link to your Presentation file]
 
 ### 2. Research & Tasks
