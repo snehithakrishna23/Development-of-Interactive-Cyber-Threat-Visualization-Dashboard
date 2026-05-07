@@ -15,7 +15,7 @@ This repository is organized into the following sections for institute evaluatio
 
 ### 1. Planning & Agile Documentation
 * **Architecture:** [Architecture Diagram](./architecture.gif)
-* * **Agile Docs:** [Agile Document](./Agile%20docx%20Grp-B(Team-A).xlsx)
+* **Agile Docs:** [Agile Document](./Agile%20docx%20Grp-B(Team-A).xlsx)
 * **PPT:** [Interactive Cyber Threat Visualization Dashboard](./Interactive%20Cyber%20Threat%20Visualization%20Dashboard.pptx)
 
 ### 2. Research & Tasks
